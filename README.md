@@ -48,6 +48,8 @@ After tests are finished report can be generated executing command :
 mvn allure:serve
 ```
 
+![plot](./src/test/resources/report_preview.png)
+
 Troubleshooting
 ---------------
 
